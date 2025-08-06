@@ -5,3 +5,4 @@ word = "Nek Ta Ryn Ki"
 print(f"It is pronounced {word}")
 z = x + y
 print(z)
+print(x + y)
